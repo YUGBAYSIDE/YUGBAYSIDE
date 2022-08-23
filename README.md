@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning front-end web dev
 - 💞️ I’m looking to collaborate on different games.
 ## 📫 How to reach me 
-- ✨ you can contact me on [discord](https://discord.com), my username is `(✨.*(◕)-ヮ-(◕)*.✨)✧#0227`
+- ✨ you can contact me on [discord](https://discord.com), my username is `wnn#0227`
 - ✨ you can also contact me on twitter, my handle is [@Klwnny](https://twitter.com/klwnny)
 ## ✨ My Works ✨
 
