@@ -3,7 +3,7 @@
 - I’m currently learning front-end web dev
 - I’m looking to collaborate on different games.
 ## How to reach me 
-- you can contact me on [discord](https://discord.com), my username is `wnn#0227`
+ - N/A 
 ## My Works 
 
 - [REPL](https://replit.com/@klwnc)
